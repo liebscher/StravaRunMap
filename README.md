@@ -1,5 +1,5 @@
 # StravaRunMap
-Map of runs pulled from Strava activities.
+Map of runs pulled from Strava activities within a coordinate defined recatangle.
 
 Corner number is the total number of miles run, calculated with the Haversine formula using individual run GPS coordinates.
 
